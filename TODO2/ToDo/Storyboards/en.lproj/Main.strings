@@ -1,0 +1,75 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3RE-Gv-XJM"; */
+"3RE-Gv-XJM.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "❇️ Добавить задачу"; ObjectID = "Ise-V2-Qeu"; */
+"Ise-V2-Qeu.title" = "❇️ Добавить задачу";
+
+/* Class = "UILabel"; text = "📌"; ObjectID = "L4O-YL-SPa"; */
+"L4O-YL-SPa.text" = "📌";
+
+/* Class = "UILabel"; text = "From 🇷🇺 with ❤️"; ObjectID = "MEu-YV-Opj"; */
+"MEu-YV-Opj.text" = "From 🇷🇺 with ❤️";
+
+/* Class = "UILabel"; text = "Разработано студентами "; ObjectID = "Ptk-Ea-yuz"; */
+"Ptk-Ea-yuz.text" = "Разработано студентами ";
+
+/* Class = "UILabel"; text = "location"; ObjectID = "UZU-vQ-rZl"; */
+"UZU-vQ-rZl.text" = "location";
+
+/* Class = "UILabel"; text = "title"; ObjectID = "Uy3-es-Go9"; */
+"Uy3-es-Go9.text" = "title";
+
+/* Class = "UIBarButtonItem"; title = "GEOdo"; ObjectID = "Y4g-wC-wSa"; */
+"Y4g-wC-wSa.title" = "GEOdo";
+
+/* Class = "UILabel"; text = "Описание"; ObjectID = "Z83-Jh-EtU"; */
+"Z83-Jh-EtU.text" = "Описание";
+
+/* Class = "UILabel"; text = "МТУСИ"; ObjectID = "a7H-GO-jo1"; */
+"a7H-GO-jo1.text" = "МТУСИ";
+
+/* Class = "UILabel"; text = "time"; ObjectID = "agQ-za-woE"; */
+"agQ-za-woE.text" = "time";
+
+/* Class = "UILabel"; text = "Михаилом🐻‍❄️ и Артёмом🐻"; ObjectID = "b1Y-C8-Bsx"; */
+"b1Y-C8-Bsx.text" = "Михаилом🐻‍❄️ и Артёмом🐻";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "j0o-h5-wf6"; */
+"j0o-h5-wf6.text" = "Description";
+
+/* Class = "UIButton"; configuration.title = "Отменить"; ObjectID = "mkD-nw-tyr"; */
+"mkD-nw-tyr.configuration.title" = "Отменить";
+
+/* Class = "UITextField"; placeholder = "Заголовок"; ObjectID = "pPs-Xb-gU2"; */
+"pPs-Xb-gU2.placeholder" = "Заголовок";
+
+/* Class = "UILabel"; text = "GEOdo"; ObjectID = "sm4-jZ-JhG"; */
+"sm4-jZ-JhG.text" = "GEOdo";
+
+/* Class = "UIButton"; configuration.title = "Добавить"; ObjectID = "sre-Dx-RsO"; */
+"sre-Dx-RsO.configuration.title" = "Добавить";
+
+/* Class = "UILabel"; text = "Версия 746.1, а вообще 1.0"; ObjectID = "tMp-9y-LbF"; */
+"tMp-9y-LbF.text" = "Версия 746.1, а вообще 1.0";
+
+/* Class = "UILabel"; text = "Дата"; ObjectID = "uqI-mp-F7I"; */
+"uqI-mp-F7I.text" = "Дата";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "uzi-Ng-ZJ2"; */
+"uzi-Ng-ZJ2.text" = "Location";
+
+/* Class = "UILabel"; text = "Новая задача"; ObjectID = "vW6-pd-jy6"; */
+"vW6-pd-jy6.text" = "Новая задача";
+
+/* Class = "UILabel"; text = "Место"; ObjectID = "xjC-XE-Xkh"; */
+"xjC-XE-Xkh.text" = "Место";
+
+/* Class = "UITextField"; placeholder = "Описание"; ObjectID = "ys6-4s-57S"; */
+"ys6-4s-57S.placeholder" = "Описание";
+
+/* Class = "UIButton"; configuration.title = "Назад"; ObjectID = "yxK-yK-VRe"; */
+"yxK-yK-VRe.configuration.title" = "Назад";
+
+/* Class = "UITextField"; placeholder = "Локация"; ObjectID = "zvI-Ma-flx"; */
+"zvI-Ma-flx.placeholder" = "Локация";
